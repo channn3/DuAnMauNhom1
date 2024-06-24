@@ -15,5 +15,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Log.d("TAG", "onCreate: ")
         Log.d("TAG", "onCreate: hello")
+        var a = "Nguyen van a"
     }
 }
