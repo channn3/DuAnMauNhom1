@@ -16,5 +16,6 @@ class MainActivity : AppCompatActivity() {
         Log.d("TAG", "onCreate: ")
         Log.d("TAG", "onCreate: hello")
         var a = "Nguyen van a"
+        var a = "Nguyen van a"
     }
 }
